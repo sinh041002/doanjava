@@ -1,0 +1,4 @@
+localhost
+quanlytrasua
+root
+
